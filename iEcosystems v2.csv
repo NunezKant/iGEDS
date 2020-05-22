@@ -9,15 +9,15 @@ Pillar,Metrics,México,Argentina,Chile,Brasil,España,Worst performance (1),Fron
 1 Foundational Institutions,1.08 Labor Freedom (IEF),"58,4","46,5","64,7","49,5","57,7",0,100,Positive
 1 Foundational Institutions,1.09 Trade freedom (IEF),"87,6","69,2",89,"67,8","86,4",0,100,Positive
 1 Foundational Institutions,1.10 Corruption Perceptions Index (TI),28,40,67,35,58,0,100,Positive
-2.01 I-Human Capital,2.01a Percentage of adults with a doctoral or equivalent level of education (OECD),"0,08",NA,NA,"0,24","0,71","0,08","3,16",Positive
+2.01 I-Human Capital,2.01a Percentage of adults with a doctoral or equivalent level of education (OECD),"0,08",,,"0,24","0,71","0,08","3,16",Positive
 2.01 I-Human Capital,2.01b Skillset of graduates (GCI 4.0),"51,5",53,"59,7","36,7",58,0,100,Positive
 2.01 I-Human Capital,2.01c Ease of finding skilled employees (GCI 4.0),53,"53,1","64,4","39,7","60,5",0,100,Positive
 2.01 I-Human Capital,2.01d Researchers/Professionals engaged in R&D per million population (GII),"2,8","14,8","5,9","10,5","34,7",0,100,Positive
 2.01 I-Human Capital,"2.01e STEM Graduates per capita (OECD) - Natural sciences, mathematics and statistics","24,71","14,73","25,87","16,86","29,02","14,73","33,7",Positive
 2.02 I-Funding,2.02a R&D expenditure as a % GDP (UNESCO),"0,49","0,54","0,36","1,26","1,2","0,1","1,3",Positive
 2.02 I-Funding,2.02b R&D expenditure in '000 current PPP$ (UNESCO),"11259935,31","4971322,2","1507781,89","41120996,29","21914133,77","44818,68","27682642,21",Positive
-2.02 I-Funding,2.02c Public R&D Expenditure as % of total R&D expenditure (UNESCO),"0,15","0,14","0,14",ND,"0,66","0,02","0,42",Positive
-2.02 I-Funding,2.02d Business Expenditure as % of total R&D expenditure (UNESCO),"0,18","0,26","0,05",ND,"0,21","0,03","0,33",Positive
+2.02 I-Funding,2.02c Public R&D Expenditure as % of total R&D expenditure (UNESCO),"0,15","0,14","0,14",,"0,66","0,02","0,42",Positive
+2.02 I-Funding,2.02d Business Expenditure as % of total R&D expenditure (UNESCO),"0,18","0,26","0,05",,"0,21","0,03","0,33",Positive
 2.03 I-Infrastructure,2.03a ICT Adoption (GCI 4.0),55,58,"63,1","58,1","78,2",0,100,Positive
 2.03 I-Infrastructure,2.03b Production Process Sophistication (GCI),"4,3","3,8","4,4","3,9","4,8",1,7,Positive
 2.03 I-Infrastructure,2.03c Availability of latest technologies (GCI),5,"4,2","5,6","4,5","5,4",1,7,Positive
