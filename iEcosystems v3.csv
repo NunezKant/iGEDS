@@ -1,0 +1,62 @@
+Pillar,Metrics,México,Argentina,Chile,Brasil,España,Uruguay,Worst performance (1),Frontier (5),Type
+1 Foundational Institutions,1.01 Ease of doing business (WB),"72,4",59,"72,6","59,1","77,9","61,5",0,100,Positive
+1 Foundational Institutions,1.02 Starting a business (WB),"86,1","80,4","91,4","81,3","86,9","89,6",0,100,Positive
+1 Foundational Institutions,1.03 Paying taxes (WB),"65,8","49,3","75,3","34,4","84,7","70,3",0,100,Positive
+1 Foundational Institutions,1.04 Resolving Insolvency (WB),"70,3",40,"60,1","50,4","79,2","53,6",0,100,Positive
+1 Foundational Institutions,1.05 Enforcing contracts (WB),67,"57,5","64,7","64,1","70,9","56,3",0,100,Positive
+1 Foundational Institutions,1.06 Property Rights (IEF),"58,3","50,5","69,9","57,3","74,9",72,0,100,Positive
+1 Foundational Institutions,1.07 Government Integrity (IEF),"36,7","49,7","73,4","45,6","55,1","73,5",0,100,Positive
+1 Foundational Institutions,1.08 Labor Freedom (IEF),"58,4","46,5","64,7","49,5","57,7",71,0,100,Positive
+1 Foundational Institutions,1.09 Trade freedom (IEF),"87,6","69,2",89,"67,8","86,4","77,4",0,100,Positive
+1 Foundational Institutions,1.10 Corruption Perceptions Index (TI),28,40,67,35,58,70,0,100,Positive
+2.01 I-Human Capital,2.01a Percentage of adults with a doctoral or equivalent level of education (OECD),"0,08",,,"0,24","0,71",,"0,08","3,16",Positive
+2.01 I-Human Capital,2.01b Skillset of graduates (GCI 4.0),"51,5",53,"59,7","36,7",58,"54,4",0,100,Positive
+2.01 I-Human Capital,2.01c Ease of finding skilled employees (GCI 4.0),53,"53,1","64,4","39,7","60,5",52,0,100,Positive
+2.01 I-Human Capital,2.01d Researchers/Professionals engaged in R&D per million population (GII),"2,8","14,8","5,9","10,5","34,7",8,0,100,Positive
+2.01 I-Human Capital,"2.01e STEM Graduates per capita (OECD) - Natural sciences, mathematics and statistics","24,71","14,73","25,87","16,86","29,02",,"14,73","33,7",Positive
+2.02 I-Funding,2.02a R&D expenditure as a % GDP (UNESCO),"0,49","0,54","0,36","1,26","1,2","0,48","0,03","4,54",Positive
+2.02 I-Funding,2.02b R&D expenditure in '000 current PPP$ (UNESCO),"11259935,31","4971322,2","1507781,89","41120996,29","21914133,77","377987,39","18544,56","499099117,1",Positive
+2.02 I-Funding,2.02c Public R&D Expenditure as % of total R&D expenditure (UNESCO),"0,18","0,26","0,05",,"0,21","0,17","0,01","0,44",Positive
+2.02 I-Funding,2.02d Business Expenditure as % of total R&D expenditure (UNESCO),"0,15","0,14","0,14",,"0,66","0,12","0,01","3,62",Positive
+2.03 I-Infrastructure,2.03a ICT Adoption (GCI 4.0),55,58,"63,1","58,1","78,2","79,7",0,100,Positive
+2.03 I-Infrastructure,2.03b Production Process Sophistication (GCI),"4,3","3,8","4,4","3,9","4,8","3,5",1,7,Positive
+2.03 I-Infrastructure,2.03c Availability of latest technologies (GCI),5,"4,2","5,6","4,5","5,4","4,9",1,7,Positive
+2.03 I-Infrastructure,2.03d ICT access (GII),"54,9","73,1","72,8","61,9","80,5","75,1",0,100,Positive
+2.04 I-Demand,2.04a Government procurement of advanced technology (GCI),"3,1","2,8","2,8","2,7","3,1","2,8",1,7,Positive
+2.04 I-Demand,2.04b University-industry research collaborations (GII),"43,7","37,6","43,8","42,5","42,2","34,9",0,100,Positive
+2.04 I-Demand,"2.04c Trade, Competition & Market scale (GII)","79,5","61,3","73,3","70,1","78,6","52,8",0,100,Positive
+2.05 I-Culture & Incentives,2.05a Research institutions prominence (GCI 4.0),"29,8","19,75","15,68","63,41",100,"0,44",0,100,Positive
+2.05 I-Culture & Incentives,2.05b Graduates in science & engineering (%) (GII),46,"19,9",32,"24,3","41,5","11,7",0,100,Positive
+3.01 E-Human Capital,3.01a Entrepreneurship perceived capabilities (GEM),"70,68","48,79","75,54","61,99","50,82","58,97","31,52",83,Positive
+3.01 E-Human Capital,3.01b % school grads in tertiary education (GII),"29,8","70,3","72,2","39,6",72,49,0,100,Positive
+3.02 E-Funding,3.02a VC investment,"25,7","4,4","43,8","20,5","49,8","1,8","0,4","196,8",Positive
+3.02 E-Funding,3.02b Financing of SME's (GCI 4.0),"45,4","27,1","52,3","41,8","54,3","50,1",0,100,Positive
+3.02 E-Funding,3.02c Venture Capital Availability (GCI 4.0),"38,3","22,1","46,1","34,9","47,1",36,0,100,Positive
+3.02 E-Funding,3.02d Ease of Credit (GII),90,55,55,50,60,60,0,100,Positive
+3.02 E-Funding,3.02e VC deals (GII),"1,1",2,3,"1,8","11,8","3,9",0,100,Positive
+3.02 E-Funding,3.02f Venture Capital Deal Volume,"29976,3","2421,9","10963,6","41425,7","63073,6","97,6","4,8","413438,1",Positive
+3.03 E-Infrastructure,3.03a Logistics performance (World Bank),"3,08","2,93","3,28","3,02","3,78","2,78",1,5,Positive
+3.03 E-Infrastructure,3.03b Electricity (GCI),"95,6","94,7",100,"93,6","97,2","95,2",0,100,Positive
+3.03 E-Infrastructure,3.03c ICT Adoption (GCI),55,58,"63,1","58,1","78,2","79,7",0,100,Positive
+3.03 E-Infrastructure,3.03d Number of internet users (UN),"65,77","74,29","82,32","70,43","86,1","74,767","14,29","99,59",Positive
+3.04 E-Demand,3.04a Buyer sophistication (GCI 4.0),"43,9","41,4","49,4","43,1",44,"44,5",0,100,Positive
+3.04 E-Demand,3.04b Domestic Market Scale (GII),"77,4","67,2","60,8","80,1","74,3","42,5",0,100,Positive
+3.05 E-Culture & Incentives,3.05a Entrepreneurial intentions (GEM),"16,3","14,83","57,57","30,17","7,41","24,21","5,37","61,58",Positive
+3.05 E-Culture & Incentives,3.05b Fear of failure (GEM),"47,74","31,92","58,07","35,57","48,21","27,39","58,07","23,87",Negative
+3.05 E-Culture & Incentives,3.05c Entrepreneurship as a Good Career choice (GEM),"68,06","59,39","74,36","75,25","57,33","54,68","24,6","94,41",Positive
+3.05 E-Culture & Incentives,3.05d High Status to Successful Entrepreneurs (GEM),"67,64","49,96","74,58","72,25","57,85","49,56","20,69","92,42",Positive
+3.05 E-Culture & Incentives,3.05e Business Freedom (Heritage Foundation),67,"60,2",75,"60,5","66,8","73,6",0,100,Positive
+3.05 E-Culture & Incentives,3.05f Attitudes towards Entrepreneurial Risk (GCI 4.0),51,"50,7",54,"51,1",46,"41,5",0,100,Positive
+4 Comparative Advantage,4.01 State of cluster development (GCI 4.0),"54,7","40,8","45,6","48,7","55,3","40,8",0,100,Positive
+4 Comparative Advantage,4.02 Country capacity to attract and retain talent,"3,5","3,3","4,6","3,3","3,2",3,1,7,Positive
+5 Impact,5.01 GDP per capita,"9897,04","11626,9","16078,7","8967,7","30697,3","17164,9","306,96","82950,28",Positive
+5 Impact,5.02 Social Progress Index,"70,42","76,86","80,02","72,87","87,47","77,77",0,100,Positive
+5 Impact,5.03 Inclusive Development Index,"4,12","4,13","4,44","3,93","4,4","4,46",1,7,Positive
+5 Impact,5.04 Population below international poverty line (SDG 1 - No poverty),"2,5","0,4","0,7","4,8",1,"0,1","49,6",0,Negative
+5 Impact,5.05 Prevalence of undernourishment (SDG 2 - Zero Hunger),"3,8","3,8","3,3","2,5","2,5","2,5","46,6","2,5",Negative
+5 Impact,5.06 Annual growth rate of real GDP per capita (SDG 8 - Decent Jobs and Economic Growth),"0,79","1,88","0,67","0,2","2,96","2,28",-10,"8,41",Positive
+5 Impact,5.07 Unemployment rate of population 15 years of age and older (SDG 8 - Decent Jobs and Economic Growth),"3,4","8,4",7,"12,8","17,2","7,9","27,3","1,6",Negative
+5 Impact,"5.08 Carbon dioxide emissions per unit of GDP (SDG 9 - Industry, Innovation and Infrastructure)","0,21","0,24","0,22","0,15","0,16","0,09","0,96","0,06",Negative
+5 Impact,5.09 Proportion of urban population living in slums (SDG 11 - Sustainable Cities and Communities),16,"14,7",9,"16,3","7,8",,"93,3","5,5",Negative
+5 Impact,5.10 Annual population-weighted average mean concentration of fine suspended particles of less than 2.5 microns in diameter (SDG 11 - Sustainable Cities and Communities),"20,08","11,83","21,03","11,49","9,48","8,63","90,35","5,78",Negative
+5 Impact,5.11 Domestic material consumption per capita (SDG 12 - Responsible Consumption and Production),8,"11,21","41,34","12,8","7,71","34,47","0,79","41,34",Positive
